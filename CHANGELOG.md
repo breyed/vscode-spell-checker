@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.35](https://github.com/streetsidesoftware/vscode-spell-checker/compare/code-spell-checker-v4.0.34...code-spell-checker-v4.0.35) (2025-01-09)
+
+
+### Updates and Bug Fixes
+
+* Have a single setting to hide issues in ruler ([#4028](https://github.com/streetsidesoftware/vscode-spell-checker/issues/4028)) ([8732e23](https://github.com/streetsidesoftware/vscode-spell-checker/commit/8732e235927f91837942e85a9d5375222a082c1c))
+
 ## [4.0.34](https://github.com/streetsidesoftware/vscode-spell-checker/compare/code-spell-checker-v4.0.33...code-spell-checker-v4.0.34) (2025-01-08)
 
 
